@@ -7,7 +7,7 @@ from scipy.stats import linregress
 st.title('PLOTTER')
 c1 = st.container()
 c2 = st.container()
-
+git o
 anzahl = c1.number_input('Wie viele Datenpunkte?',min_value=1,max_value=50,step=1)
 
 tabelle = []
